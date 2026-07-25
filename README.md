@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://t.me/ReymDev">
-    <img src="https://img.shields.io/badge/Telegram-@ReymDev-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+    <img src="https://img.shields.io/badge/Telegram-@EnHustVpnSupport-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
   </a>
   <a href="https://github.com/ReymDev">
     <img src="https://img.shields.io/badge/GitHub-ReymDev-333?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" />
@@ -138,7 +138,7 @@
 
 <p align="center">
   <a href="https://t.me/ReymDev">
-    <img src="https://img.shields.io/badge/Telegram-@ReymDev-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+    <img src="https://img.shields.io/badge/Telegram-@EnHustVpnSupport-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
   </a>
   <a href="https://github.com/ReymDev">
     <img src="https://img.shields.io/badge/GitHub-ReymDev-333?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" />
